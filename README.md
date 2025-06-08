@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marylyne-mutindi" alt="marylyne-mutindi" /></a> </p>
 
-- 🔭 I’m currently working on **EduDjango**
+- 🔭 I’m currently working on **pro clinic**
 
-- 🌱 I’m currently learning **FastAPI ,Flask, Tensorflow**
+- 🌱 I’m currently learning **python django**
 
-- 👯 I’m looking to collaborate on **EduDjango**
+- 👯 I’m looking to collaborate on **pro-clinic**
 
 - 🤝 I’m looking for help with **Implementing best practices for securing user data and preventing common vulnerabilities.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marylyne-mutindi](https://github.com/marylyne-mutindi)
 
-- 📝 I regularly write articles on [Tech Events](Tech Events)
+- 📝 I regularly write articles on Tech 
 
-- 💬 Ask me about **react,html,design,django,APIs,Css,Flask**
+- 💬 Ask me about **react,html,Design,django,APIs,Css,**
 
 - 📫 How to reach me **marylynemutindi@gmail.com**
 
