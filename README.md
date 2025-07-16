@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marylyne-mutindi" alt="marylyne-mutindi" /></a> </p>
 
-- 🔭 I’m currently working on **pro clinic**
+- 🔭 I’m currently working on **student grading system**
 
 - 🌱 I’m currently learning **python django**
 
-- 👯 I’m looking to collaborate on **pro-clinic**
+- 👯 I’m looking to collaborate on **student grading system**
 
 - 🤝 I’m looking for help with **Implementing best practices for securing user data and preventing common vulnerabilities.**
 
@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on Tech 
 
-- 💬 Ask me about **react,html,Design,django,APIs,Css,**
+- 💬 Ask me about **python,html,UI/UX,django,APIs,Css,**
 
 - 📫 How to reach me **marylynemutindi@gmail.com**
 
-- 📄 Know about my experiences [https://marylyneportfolio.z13.web.core.windows.net/](https://marylyneportfolio.z13.web.core.windows.net/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/marylyne-mutindi-218679220/)
 
-- ⚡ Fun fact **As a designer, I love exploring how small changes in design can make a big impact. For example, I once revamped a website's color scheme and saw a 30% increase in user engagement—proving that even subtle design tweaks can significantly enhance user experience!**
+- ⚡Fun Fact: As a Django developer, I love discovering how small backend improvements can create a big user impact. For example, I once optimized a few Django querysets and reduced page load time by over 40%—proving that even behind-the-scenes tweaks can significantly boost performance and user experience!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
